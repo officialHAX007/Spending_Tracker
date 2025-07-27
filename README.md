@@ -1,48 +1,71 @@
 # Spending_Tracker
 
-Group Members:
+## Group Members:
+- Min Khant Aung  
+- San Lin Htet  
+- Htoo Pyae Sone Htun  
 
-Min Khant Aung 
+---
 
-San Lin Htet
+## 🧾 Project Overview  
+This is a Spending Tracker Web App built with React.js.  
+It is a fully client-side application (no backend) and uses `localStorage` to save data across sessions.
 
-Htoo Pyae Sone Htun
+---
 
-__________________________
+## 🔍 Features
 
- Project Overview
-Our project is a Spending Tracker Web App built with React.js. It is a single-page application with no backend, and uses localStorage to persist user data across sessions.
+### 📘 1. Journal Page
+- Users can record daily spending entries.
+- Each entry includes:
+  - Date
+  - Category
+  - Amount
+- Users can:
+  - Select from existing categories
+  - Add new custom categories
+  - Delete incorrect entries
+- All data is saved using `localStorage`.
 
- Features
- 1. Journal Page
-Users can record daily spending entries.
+### 📊 2. Dashboard Page
+- View analytics summary by:
+  - Daily
+  - Weekly
+  - Monthly
+- Shows:
+  - Total spending (all time)
+  - Total spending (selected month)
+  - **Line chart** of spending over time
+  - **Pie chart** of category distribution
 
-Each entry includes a date, spending category, and amount.
+---
 
-Users can also add new spending categories if needed.
+## 🛠️ Technologies Used
+- React.js (frontend framework)
+- Chart.js (for charts)
+- Tailwind CSS (for styling)
+- LocalStorage (for data persistence)
+- React Router (for navigation)
 
-Entries are stored locally in the browser using localStorage.
+---
 
-Entries can be deleted with a Delete button if entered incorrectly.
+## 🌐 Deployment
 
- 2. Dashboard Page
-Shows total spending of all time and for the selected month.
+Deployed via GitHub Pages:  
+**🔗 [https://officialHAX007.github.io/Spending_Tracker/](https://officialHAX007.github.io/Spending_Tracker/)**
 
-Users can select between daily, weekly, and monthly views.
+GitHub Repo:  
+**🔗 [https://github.com/officialHAX007/Spending_Tracker](https://github.com/officialHAX007/Spending_Tracker)**
 
-Includes two types of visual analytics:
+---
 
- Line Chart – Displays spending trend over time.
+## 🖼️ Screenshots  
+> 📷 Add screenshots of your Journal and Dashboard pages here
 
- Pie Chart – Shows spending distribution by category.
+---
 
- Technologies Used
-React.js (frontend framework)
+## ✅ How to Run Locally
 
-Chart.js (line and pie charts)
-
-Tailwind CSS (styling)
-
-LocalStorage (data persistence)
-
-React Router (navigation between pages)
+```bash
+npm install
+npm start
