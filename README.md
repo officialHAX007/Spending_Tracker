@@ -61,14 +61,9 @@ GitHub Repo:
 
 ## 📸 Screenshots
 
-### 📝 Journal Page
-![Journal Page](assets/journal.png)
-
-### 📊 Dashboard Page
-![Dashboard Page](assets/dashboard.png)
-
-### 📈 Charts View
-![Charts](assets/charts.png)
+![Journal Page](src/components/journal.png)
+![Dashboard Page](src/components/dashboard.png)
+![Charts View](src/components/charts.png)
 
 
 ---
