@@ -59,8 +59,17 @@ GitHub Repo:
 
 ---
 
-## 🖼️ Screenshots  
-> 📷 Add screenshots of your Journal and Dashboard pages here
+## 📸 Screenshots
+
+### 📝 Journal Page  
+![Journal Page](assets/Screenshot%202568-07-28%20at%2023.11.21.png)
+
+### 📊 Dashboard Page  
+![Dashboard Page](assets/Screenshot%202568-07-28%20at%2023.11.25.png)
+
+### 📈 Charts View  
+![Charts View](assets/Screenshot%202568-07-28%20at%2023.11.29.png)
+
 
 ---
 
