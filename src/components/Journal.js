@@ -37,14 +37,6 @@ export default function Journal() {
     localStorage.setItem('spendingEntries', JSON.stringify(updated));
   };
 
-  const addCustomCategory = (cat) => {
-    const trimmed = cat.trim();
-    if (!trimmed || categories.includes(trimmed)) return;
-    const updatedCats = [...categories, trimmed];
-    setCategories(updatedCats);
-    localStorage.setItem('spendingCategories', JSON.stringify(updatedCats));
-  };
-
   const selectedDescription = spendingCategories.find(c => c.category === category)?.description;
 
   return (
