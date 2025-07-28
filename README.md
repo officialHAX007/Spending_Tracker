@@ -61,14 +61,14 @@ GitHub Repo:
 
 ## 📸 Screenshots
 
-### 📝 Journal Page  
-![Journal Page](assets/Screenshot 2568-07-28 at 23.11.21.png)
+### 📝 Journal Page
+![Journal Page](assets/journal.png)
 
-### 📊 Dashboard Page  
-![Dashboard Page](assets/Screenshot 2568-07-28 at 23.11.25.png)
+### 📊 Dashboard Page
+![Dashboard Page](assets/dashboard.png)
 
-### 📈 Charts View  
-![Charts View](assets/Screenshot 2568-07-28 at 23.11.29.png)
+### 📈 Charts View
+![Charts](assets/charts.png)
 
 
 ---
